@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+.main{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 9px 9px;
+}
+
+#enter{
+    width: 80%;
+}
