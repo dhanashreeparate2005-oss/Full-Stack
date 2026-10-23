@@ -25,7 +25,7 @@ body {
 #card:hover {
   transform: translateY(-10px);
   transition: transform 1s;
-  #flower {
+  #thankyou {
     transform: scale(1.2);
     transition: transform 1s 1s;
   }
